@@ -1,1 +1,2 @@
 # PythonModulo2
+En este segundo proyecto hice uso de elementos que también ocupé el modulo anterior, aunque no fue necesario validar tantos datos, sirven para realizar ciclos y evitar que el programa finalice antes de lo esperado. También sigo aprendiendo más funciones que nos otorga python como por ejemplo "len" o que podemos regresar datos al usuario con la función "return" o mostrar texto en pantalla de otras formas además de "print"
